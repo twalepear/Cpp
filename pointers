@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+  int *ptr, i, k;
+  int *ptr2, L;
+  ptr = &i;
+  ptr2 = ptr + 1;
+  L = ptr2 - ptr;
+}

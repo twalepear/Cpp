@@ -7,3 +7,9 @@ int main() {
   // if (condition) {
   // code
   // }
+
+  int i = 11, k; // the value of i is 11 and k was also declared
+  int *j;
+  j = &i; // j is a pointer and has the address of i in memory
+  k = *j; // 
+}

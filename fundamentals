@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main() {
+  int x =  4; // declare variable
+  x = 5; // assignment, assign another number to x
+
+  // if (condition) {
+  // code
+  // }
